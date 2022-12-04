@@ -1,7 +1,7 @@
 {
-  "name": "melvor-idle-mod-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "name": "melvor-idle-mining-automation",
+  "version": "0.1.0",
+  "description": "Automate the Mining skill in Melvor Idle according to user-defined priorities.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

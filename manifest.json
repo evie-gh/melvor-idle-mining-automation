@@ -1,5 +1,5 @@
 {
-  "namespace": "modBoilerplate",
+  "namespace": "melvorMining",
   "setup": "setup.mjs",
   "load": ["templates/templates.html"]
 }
